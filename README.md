@@ -1,4 +1,4 @@
-# Network Works Internship
+# Network Walks Internship
 
 This repository contains all tasks completed during the **Network Walks Internship**, along with their related documentation and screenshots.
 
@@ -7,7 +7,7 @@ This repository contains all tasks completed during the **Network Walks Internsh
 Each week has its own directory containing the project documentation and screenshots for that week.
 
 ```text
-network-works-internship/
+NetworkWalksCyberInternship/
 │
 ├── README.md
 │
